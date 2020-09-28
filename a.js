@@ -1,2 +1,2 @@
-let string1 = "a";
+let string1 = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
 let string2 = "a";
